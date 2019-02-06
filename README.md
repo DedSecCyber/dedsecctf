@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DedSecCyber/dedsecctf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ยินดีต้อนรับสู่ DedSec CTF เว็บไซต์ที่จะสอนให้รู้ถึงเทคนิคการเจาะระบบ ด้วยเกมที่เราสร้างขึ้น ตั้งแต่ช่องโหว่ระดับต่ำ จนถึงช่องโหว่ระดับสูง ของให้สนุกกับการแฮกน่ะครับ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
